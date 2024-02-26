@@ -1,2 +1,5 @@
 # P7-T10-DumitrescuMagareataGavrila
-Proiect - Utilizarea Bazelor de date 2023/2024
+This project was developed by:
+- Dumitrescu Marian-Daniel
+- Măgăreață Adelina-Maria
+- Gavrilă Răzvan-Ștefan
